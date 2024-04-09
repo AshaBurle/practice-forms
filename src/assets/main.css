@@ -1,0 +1,27 @@
+.main-container{
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    padding: 30px;
+    overflow-y: scroll;
+}
+
+.bg_color{
+    background-color: green;
+}
+
+.login-data{
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+    text-align: start;
+    justify-content: center;
+    
+}
+
+.text-feilds{
+    display: flex;
+    flex-direction: column;
+    width: 10vw;
+}
